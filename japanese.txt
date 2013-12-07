@@ -9,6 +9,130 @@
 スポーツ  Supōtsu : Sport
 テクノロジー Tekunorojī : Technology
 ピックアップ  Pikkuappu : Pickup
+食べました tabemashita 我吃了
+メール me-ru : email
+メイン mein : main 
+さん san  : Mr, Miss, Mrs.
+から kara : from
+ゴミ箱/ごみばこ gomibako : trash
+ひらがな/ヒラガナ hiragana
+カタカナ/かたかな katatana
+カメラ kamera : camera
+メニュー Menyū : menu
+オフ   ofu : Off
+オン   on
+ツール tu-ru : tool
+自轉車/じてんしゃ jitensha : bicycle
+ごろ goro : around
+いつ itsu : when
+いつでも/何時でも itsudemo: anywhere
+いつまで/何時まで itsumade: how long, until when
+いつから/何時から itsukara: since when?
+拉麺 ra-men : noodle
+サポート support
+その他  sonota : et cetera
+フォルダ foruda : folder
+ファイル fairu : file
+マップ mappu : Map 
+カレンダー karenda-: Calendar
+オプション Opushon: Options
+ブラウザ Burauza: Browser
+会社はどこですか Kaisha wa dokodesu ka: where is your company?
+バス basu : bus ベース bēsu: Base
+配送/はいそう  haisou: Delivery
+ギャラリー gyararī: Gallery
+キット kitto: Kit
+テーマ Tēma: Theme
+
+
+あ:a		い:i		う:u		え:e		お:o
+か:ka		き:ki		く:ku		け:ke		こ:ko
+さ:sa		し:shi	す:su		せ:se
+そ:so		た:ta		ち:chi,ti				つ:tsu,tu
+て:te		と:to		な:na		に:ni		ぬ:nu						
+ね:ne		の:no		は:ha,wa				ひ:hi		
+ふ:fu,hu				へ:he,e	ほ:ho		ん:n
+ま:ma		み:mi		む:mu		め:me		も:mo		
+や:ya		ゆ:yu		よ:yo		ら:ra		り:ri		
+る:ru		れ:re		ろ:ro		わ:wa		を:wo,o
+
+Hiragana (平仮名, ひらがな or ヒラガナ) is a Japanese syllabary, one basic component of the Japanese writing system, along with katakana, kanji, and in some cases rōmaji (the Latin-script alphabet).
+
+Hiragana and katakana are both kana systems; they have corresponding character sets in which each kana, or character, represents one mora (one sound in the Japanese language). Each kana is either a vowel such as "a" (hiragana あ); a consonant followed by a vowel such as "ka" (hiragana か); or "n" (hiragana ん), a nasal sonorant which, depending on the context, sounds either like English m, n, or ng ([ŋ]), or like the nasal vowels of French. Because the characters of the kana do not represent single consonants (except in the case of ん "n"), the kana are referred to as syllabaries and not alphabets.[1]
+
+Hiragana is used to write native words for which there are no kanji, including grammatical particles such as から kara "from", and suffixes such as さん ~san "Mr., Mrs., Miss, Ms." Likewise, hiragana is used to write words whose kanji form is obscure, not known to the writer or readers, or too formal for the writing purpose. There is also some flexibility for words that have common kanji renditions to be optionally written instead in hiragana, according to an individual author's preference. Verb and adjective inflections, as, for example, be-ma-shi-ta (べました) in tabemashita (食べました, "ate"), are written in hiragana, often following a verb or adjective root (here, "食") that is written in kanji. When Hiragana is used to show the pronunciation of kanji characters as reading aid, it is referred to as furigana. The article Japanese writing system discusses in detail how the various systems of writing are used.
+
+There are two main systems of ordering hiragana, the old-fashioned iroha ordering, and the more prevalent gojūon ordering.
+
+The hiragana syllabary consists of 48 characters:
+
+5 singular vowels
+Notionally, 45 consonant–vowel unions, consisting of 9 consonants in combination with each of the 5 vowels, of which:
+2 (yi, and wu) are unused
+3 (ye, wi, and we) are obsolete in modern Japanese
+1 (wo) is usually pronounced as a vowel (o) in modern Japanese, and is preserved in only one use, as a particle
+1 singular consonant
+These are conceived as a 5×10 grid (gojūon, 五十音, lit. "Fifty Sounds"), as illustrated in the adjacent table, with the extra character being the anomalous singular consonant ん (N).
+
+Romanisation of the kana does not always strictly follow the consonant-vowel scheme laid out in the table. For example, ち, nominally ti, is very often romanised as chi in an attempt to better represent the actual sound in Japanese.
+
+These basic characters can be modified in various ways. By adding a dakuten marker ( ゛), a voiceless consonant is turned into a voiced consonant: k→g, ts/s→z, t→d, h→b and ch/sh→j. Hiragana beginning with an h can also add a handakuten marker ( ゜) changing the h to a p.
+
+A small version of the hiragana for ya, yu or yo (ゃ, ゅ or ょ respectively) may be added to hiragana ending in i. This changes the i vowel sound to a glide (palatalization) to a, u or o. Addition of the small y kana is called yōon. For example, き (ki) plus ゃ (small ya) becomes きゃ (kya).
+
+A small tsu っ, called a sokuon, indicates that the following consonant is geminated (doubled). For example, compare さか saka "hill" with さっか sakka "author". It also sometimes appears at the end of utterances, where it denotes a glottal stop, as in いてっ! ([iteʔ] Ouch!). However, it cannot be used to double the na, ni, nu, ne, no syllables' consonants – to double them, the singular n (ん) is added in front of the syllable.
+
+Hiragana usually spells long vowels with the addition of a second vowel kana. The chōonpu (long vowel mark) (ー) used in katakana is rarely used with hiragana, for example in the word らーめん, rāmen, but this usage is considered non-standard. In informal writing, small versions of the five vowel kana are sometimes used to represent trailing off sounds (はぁ haa, ねぇ nee). Standard and voiced iteration marks are written in hiragana as ゝ and ゞ respectively.
+
+
+Hiragana base characters
+-	a	i	u	e	o
+-	あ	い	う	え	お
+k	か	き	く	け	こ
+s	さ	し	す	せ	そ
+t	た	ち	つ	て	と
+n	な	に	ぬ	ね	の
+h	は	ひ	ふ	へ	ほ
+m	ま	み	む	め	も
+y	や			ゆ			よ
+r	ら	り	る	れ	ろ
+w	わ	ゐ			ゑ	を
+ん (N)	
+Functional marks
+and diacritics
+っ	ゝ		゛	゜	
+unused/obsolete
+
+In the middle of words, the g sound (normally [ɡ]) often turns into a velar nasal [ŋ] and less often (although increasing recently) into the voiced velar fricative [ɣ]. An exception to this is numerals; 15 juugo is considered to be one word, but is pronounced as if it was jū and go stacked end to end: [d͡ʑu͍ːɡo].
+
+Additionally, the j sound (normally [d͡ʑ]) can be pronounced [ʑ] in the middle of words. For example すうじ sūji [su͍ːʑi] 'number'.
+
+In archaic forms of Japanese, there existed the kwa (くゎ [kʷa]) and gwa (ぐゎ [ɡʷa]) digraphs. In modern Japanese, these phonemes have been phased out of usage and only exist in the extended katakana digraphs for approximating foreign language words.
+
+The singular n is pronounced [n] before t, ch, ts, n, r, z, j and d, [m] before m, b and p, [ŋ] before k and g, [ɴ] at the end of utterances, [ũ͍] before vowels, palatal approximants (y), consonants s, sh, h, f and w, and finally [ĩ] after the vowel i if another vowel, palatal approximant or consonant s, sh, h, f or w follows.
+
+In kanji readings, the diphthongs ou and ei are today usually pronounced [oː] (long o) and [eː] (long e) respectively. For example とうきょう (lit. toukyou) is pronounced [toːkʲoː] 'Tokyo', and せんせい sensei is [seũ͍seː] 'teacher'. However, とう tou is pronounced [tou͍] 'to inquire', because the o and u are considered distinct, u being the infinitive verb ending. Similarly, している shite iru is pronounced [ɕiteiɾu͍] 'is doing'.
+
+For a more thorough discussion on the sounds of Japanese, please refer to Japanese phonology.
+
+Spelling rules
+
+With a few exceptions for sentence particles は, を, and へ (pronounced as wa, o, and e), and a few other arbitrary rules, Japanese, when written in kana, is phonemically orthographic, i.e. there is a one-to-one correspondence between kana characters and sounds, leaving only words' pitch accent unrepresented. This has not always been the case: a previous system of spelling, now referred to as historical kana usage, differed substantially from pronunciation; the three above-mentioned exceptions in modern usage are the legacy of that system. The old spelling is referred to as kanazukai (仮名遣い).
+
+There are two hiragana pronounced ji (じ and ぢ) and two hiragana pronounced zu (ず and づ), but to distinguish them, sometimes ぢ is written as di and づ is written as dzu. These pairs are not interchangeable. Usually, ji is written as じ and zu is written as ず. There are some exceptions. If the first two syllables of a word consist of one syllable without a dakuten and the same syllable with a dakuten, the same hiragana is used to write the sounds. For example chijimeru ('to boil down' or 'to shrink') is spelled ちぢめる and tsudzuku ('to continue') is つづく. For compound words where the dakuten reflects rendaku voicing, the original hiragana is used. For example, chi (血 'blood') is spelled ち in plain hiragana. When 鼻 hana ('nose') and 血 chi ('blood') combine to make hanaji 鼻血 'nose bleed'), the sound of 血 changes from chi to dji. So hanadji is spelled はなぢ according to ち: the basic hiragana used to transcribe 血. Similarly, tsukau (使う/遣う; 'to use') is spelled つかう in hiragana, so kanazukai (仮名遣い; 'kana use', or 'kana orthography') is spelled かなづかい in hiragana.
+
+However, this does not apply when kanji are used phonetically to write words which do not relate directly to the meaning of the kanji (see also ateji). The Japanese word for 'lightning', for example, is inazuma (稲妻). The 稲 component means 'rice plant', is written いな in hiragana and is pronounced: ina. The 妻 component means 'wife' and is pronounced tsuma (つま) when written in isolation—or frequently as zuma (ずま) when it features after another syllable. Neither of these components have anything to do with 'lightning', but together they do when they compose the word for 'lightning'. In this case, the default spelling in hiragana いなずま rather than いなづま is used.
+
+Officially, ぢ and づ do not occur word-initially pursuant to modern spelling rules. There were words such as ぢばん jiban 'ground' in the historical kana usage, but they were unified under じ in the modern kana usage in 1946, so today it is spelled exclusively じばん. However, づら zura 'wig' (from かつら katsura) and づけ zuke (a sushi term for lean tuna soaked in soy sauce) are examples of word-initial づ today. Some people write the word for hemorrhoids as ぢ (normally じ) for emphasis.
+
+No standard Japanese words begin with the kana ん (n). This is the basis of the word game shiritori. ん n is normally treated as its own syllable and is separate from the other n-based kana (na, ni etc.). A notable exception to this is the colloquial negative verb conjugation; for example わからない wakaranai meaning "[I] don't understand" is rendered as わからん wakaran. It is however not a contraction of the former, but instead comes from the classic negative verb conjugation ぬ nu (わからぬ wakaranu).
+
+ん is sometimes directly followed by a vowel (a, i, u, e or o) or a palatal approximant (ya, yu or yo). These are clearly distinct from the na, ni etc. syllables, and there are minimal pairs such as きんえん kin'en 'smoking forbidden', きねん kinen 'commemoration', きんねん kinnen 'recent years'. In Hepburn romanization, they are distinguished with an apostrophe, but not all romanization methods make the distinction. For example past prime minister Junichiro Koizumi's first name is actually じゅんいちろう Jun'ichirō pronounced [d͡ʑu͍ũ͍it͡ɕiɾoː]
+
+There are a few hiragana which are rarely used. ゐ wi and ゑ we are obsolete outside of Okinawan dialects. ゔ vu is a modern addition used to represent the /v/ sound in foreign languages such as English, but since Japanese from a phonological standpoint does not have a /v/ sound, it is pronounced as /b/ and mostly serves as a more accurate indicator of a word's pronunciation in its original language. However, it is rarely seen because loanwords and transliterated words are usually written in katakana, where the corresponding character would be written as ヴ. ぢゃ, ぢゅ, ぢょ for ja/ju/jo are theoretically possible in rendaku, but are practically never used. For example 日本中 'throughout Japan' could be written にほんぢゅう, but is practically always にほんじゅう.
+
+The みゅ myu kana is extremely rare in originally Japanese words; linguist Haruhiko Kindaichi raises the example of the Japanese family name Omamyūda (小豆生田) and claims it is the only occurrence amongst pure Japanese words. Its katakana counterpart is used in many loanwords, however.
+
 
 
 
