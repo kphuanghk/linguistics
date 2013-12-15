@@ -44,6 +44,18 @@
 キット kitto: Kit
 テーマ Tēma: Theme
 
+Japanese People:
+真田廣之 さなだ ひろゆき Sanada Hiroyuki
+渡辺 謙 わたなべ けん Watanabe Ken
+宮﨑 駿 みやざき はやお Miyazaki Hayao
+松本行弘 まつもとゆきひろ Matsumoto Yukihiro
+藤沢 武夫 ふじさわ たけお Fujisawa Takeo
+本田 宗一郎 ほんだ そういちろう Honda Sōichirō
+豊田 喜一郎 とよだ きいちろう Toyoda Kiichirō
+坂本 龍馬 さかもと りょうま Sakamoto Ryōma
+松下 幸之助 まつした こうのすけ Matsushita Kōnosuke
+
+経営者（けいえいしゃ）
 
 あ:a		い:i		う:u		え:e		お:o
 か:ka		き:ki		く:ku		け:ke		こ:ko
