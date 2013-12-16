@@ -45,15 +45,35 @@
 テーマ Tēma: Theme
 
 Japanese People:
-真田廣之 さなだ ひろゆき Sanada Hiroyuki
-渡辺 謙 わたなべ けん Watanabe Ken
-宮﨑 駿 みやざき はやお Miyazaki Hayao
+
+Business Men
 松本行弘 まつもとゆきひろ Matsumoto Yukihiro
 藤沢 武夫 ふじさわ たけお Fujisawa Takeo
 本田 宗一郎 ほんだ そういちろう Honda Sōichirō
 豊田 喜一郎 とよだ きいちろう Toyoda Kiichirō
 坂本 龍馬 さかもと りょうま Sakamoto Ryōma
 松下 幸之助 まつした こうのすけ Matsushita Kōnosuke
+
+Artists
+真田廣之 さなだ ひろゆき Sanada Hiroyuki
+渡辺 謙 わたなべ けん Watanabe Ken
+反町隆史 そりまち たかし SORIMACHI Takashi
+大沢 たかお/大澤隆夫 おおさわ たかお Oosawa Takao
+江口 洋介 えぐち ようすけ Eguchi Yōsuke
+
+Anime and Mecha
+富野 由悠季 とみの よしゆき Tomino Yoshiyuki
+大河原 邦男 おおかわら くにお Ōkawara Kunio
+宮﨑 駿 みやざき はやお Miyazaki hayao
+高畑 勲 たかはた いさお Takahata Isao
+
+History Roles:
+霧隠 才蔵 きりがくれ さいぞう Kirigakure Saizo
+石川 五右衛門 いしかわ ごえもん Ishikawa Goemon
+豐臣 秀吉 とよとみ ひでよし Toyotomi Hideyoshi
+德川 家康 とくがわ いえやす Tokugawa Ieyasu
+竹千代 たけちよ Takechiyo
+本多 忠勝 ほんだ ただかつ Honda Tadakatsu
 
 経営者（けいえいしゃ）
 
